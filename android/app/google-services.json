@@ -1,0 +1,47 @@
+{
+    "project_info": {
+      "project_number": "187710717933",
+      "project_id": "easykhata-phone-login",
+      "storage_bucket": "easykhata-phone-login.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:187710717933:android:78eafdd5f3a4559a23b1e4",
+          "android_client_info": {
+            "package_name": "com.example.easykhataasg"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "187710717933-gko68nuaionvm00fqqqbflmd63eophfn.apps.googleusercontent.com",
+            "client_type": 1,
+            "android_info": {
+              "package_name": "com.example.easykhataasg",
+              "certificate_hash": "34982391d082e46e7b9e37cea38748ebaa04e4e6"
+            }
+          },
+          {
+            "client_id": "187710717933-otjrt9te789k3vdqkelie2dm9o8l3f92.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyBxq5teuWvFoeoPNKUuEck5vNCyG1Nm0Qc"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "187710717933-otjrt9te789k3vdqkelie2dm9o8l3f92.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
